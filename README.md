@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raomk" alt="raomk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/raomk" target="blank"><img src="https://img.shields.io/twitter/follow/raomk?logo=twitter&style=for-the-badge" alt="raomk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rao_m_k" target="blank"><img src="https://img.shields.io/twitter/follow/rao_m_k?logo=twitter&style=for-the-badge" alt="raomk" /></a> </p>
 
 - 💬 Ask me about **reactjs, react native, nodejs, mongodb, nextjs**
 
