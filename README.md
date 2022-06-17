@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raomk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raomk" height="30" width="40" /></a>
+<a href="https://twitter.com/rao_m_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rao_m_k" height="30" width="40" /></a>
 <a href="https://instagram.com/rao_m_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rao_m_k" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raomk&show_icons=true&locale=en" alt="raomk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raomk&" alt="raomk" /></p>
-
